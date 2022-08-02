@@ -1,0 +1,64 @@
+# Base de datos de miniaturas de Windows
+Pulgares.db
+
+# archivos OSX
+.DS_Tienda
+
+# archivos de aplicaciones construidos
+* .apk
+* .ap_
+
+# archivos para la máquina virtual dex
+* .dex
+
+# archivos de clase Java
+* .clase
+
+# archivos generados
+papelera /
+generación /
+construir /
+
+# Archivo de configuración local (ruta SDK, etc.)
+propiedades.locales
+
+# Archivos de proyecto de Eclipse
+.classpath
+.proyecto
+
+# Configuraciones específicas del usuario
+.idea / cachés /
+.idea / bibliotecas /
+.idea / estantería /
+.idea / espacio de trabajo.xml
+.idea / tareas.xml
+.idea / .nombre
+.idea / compilador.xml
+.idea / derechos de autor / perfiles_configuración.xml
+.idea / codificaciones.xml
+.idea / misc.xml
+.idea / módulos.xml
+.idea / ámbitos / scope_settings.xml
+.idea / diccionarios
+.idea / vcs.xml
+.idea / jsLibraryMappings.xml
+.idea / fuentes de datos.xml
+.idea / fuentes de datos.ids
+.idea / sqlDataSources.xml
+.idea / dinámico.xml
+.idea / uiDesigner.xml
+.idea / assetWizardSettings.xml
+
+#Estudio de Android
+.ocurrencia
+Gradle
+/*/local.properties _ _ _
+/ * / fuera
+/ * / * / construir
+construir
+/ * / * / producción
+* .iml
+* .iws
+* .ipr
+* ~
+* .swp
